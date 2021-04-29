@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26341" started-at="2021-01-14T15:46:44Z" finished-at="2021-01-14T15:47:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26341" started-at="2021-01-14T15:46:44Z" finished-at="2021-01-14T15:47:10Z">
+      <class name="com.qa.fdcalculator.testcase.SIcalculation2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation2@7946e1f4]" name="setup" is-config="true" duration-ms="9132" started-at="2021-01-14T15:46:55Z" finished-at="2021-01-14T15:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="calculationSI()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation2@7946e1f4]" name="calculationSI" duration-ms="5987" started-at="2021-01-14T15:47:04Z" finished-at="2021-01-14T15:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculationSI -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation2@7946e1f4]" name="tear" is-config="true" duration-ms="73" started-at="2021-01-14T15:47:10Z" finished-at="2021-01-14T15:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.qa.fdcalculator.testcase.SIcalculation2 -->
+      <class name="com.qa.fdcalculator.testcase.SIcalculation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation@6276ae34]" name="setup" is-config="true" duration-ms="9217" started-at="2021-01-14T15:46:44Z" finished-at="2021-01-14T15:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="calculationSI()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation@6276ae34]" name="calculationSI" duration-ms="1843" started-at="2021-01-14T15:46:53Z" finished-at="2021-01-14T15:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculationSI -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:com.qa.fdcalculator.testcase.SIcalculation@6276ae34]" name="tear" is-config="true" duration-ms="70" started-at="2021-01-14T15:46:55Z" finished-at="2021-01-14T15:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.qa.fdcalculator.testcase.SIcalculation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+com\qa\fdcalculator\baseClass\baseclass.class
+com\qa\fdcalculator\baseTest\baseTest.class
+com\qa\fdcalculator\browserinit\browserInitization.class
+com\qa\utiles\configProperties.class
+com\qa\fdcalculator\baseClass\commonfunction.class
+com\qa\fdcalculator\page\fdpage.class
+com\qa\utiles\dbOperation.class
